@@ -31,7 +31,7 @@ public:
    } 
 }; 
 int main() { 
-   Item tool; 
+   Item tool;
    tool.name = "Screwdriver"; 
    tool.quantity = 10; 
  
